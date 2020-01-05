@@ -1,0 +1,12 @@
+/* pages/index2/index2.wxss */
+.box {
+    padding: 10px 8px;
+    /* padding-left: 8px; */
+    /* border: rebeccapurple solid 1px; */
+}
+.box .txt {
+    border: solid 1px rgb(80, 153, 51);
+}
+.box .returnBox{
+    border: solid 1px blue;
+}

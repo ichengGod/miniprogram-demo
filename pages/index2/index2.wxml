@@ -1,0 +1,7 @@
+<!--pages/index2/index2.wxml-->
+<!-- <text>pages/index2/index2.wxml</text> -->
+<view class="box">
+    <view class="box" >请输入文字</view>
+    <input class="txt" bindinput="mybind"></input>
+    <view  class="returnBox">{{tip}}</view>
+</view>
